@@ -1,6 +1,4 @@
-/*import methodOverride from 'method-override';
-import cors from 'cors';
-import express from 'express';*/
+
 
 const methodOverride = require('method-override');
 const cors = require('cors');
